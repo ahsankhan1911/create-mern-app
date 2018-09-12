@@ -1,6 +1,6 @@
 {
   "name": "mern-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to install MERN app",
   "main": "index.js",
   "preferGlobal": true,
