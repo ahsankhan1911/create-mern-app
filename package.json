@@ -1,5 +1,5 @@
 {
-  "name": "create-mern-app",
+  "name": "mern-boilerplate",
   "version": "1.0.0",
   "description": "CLI to install MERN app",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahsankhan1911/create-mern-app.git"
+    "url": "git+https://github.com/ahsankhan1911/mern-boilerplate.git"
   },
   "keywords": [
     "mern"
@@ -18,9 +18,9 @@
   "author": "Ahsan Khan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahsankhan1911/create-mern-app/issues"
+    "url": "https://github.com/ahsankhan1911/mern-boilerplate/issues"
   },
-  "homepage": "https://github.com/ahsankhan1911/create-mern-app#readme",
+  "homepage": "https://github.com/ahsankhan1911/mern-boilerplate#readme",
   "dependencies": {
     "commander": "^2.18.0",
     "inquirer": "^6.2.0",
