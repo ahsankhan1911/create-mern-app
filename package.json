@@ -1,0 +1,29 @@
+{
+  "name": "create-mern-app",
+  "version": "1.0.0",
+  "description": "CLI to install MERN app",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsankhan1911/create-mern-app.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Ahsan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsankhan1911/create-mern-app/issues"
+  },
+  "homepage": "https://github.com/ahsankhan1911/create-mern-app#readme",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "inquirer": "^6.2.0",
+    "rimraf": "^2.6.2"
+  }
+}
