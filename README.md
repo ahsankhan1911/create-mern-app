@@ -1,2 +1,2 @@
-# create-mern-app
+# mern-boilerplate
 CLI to install MERN app 
