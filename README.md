@@ -29,6 +29,15 @@ npm install
 npm start
 ```
 
+## Run seeder script to get dummy data
+
+``` 
+npm run seeder
+```
+
+NOTE: 
+* You should have MongoDB installed in your machine to generate dummy data in DB.
+
 You will get everything setup for your Node and Express backend.
 
 ## Get ready to develop your front-end with React 
